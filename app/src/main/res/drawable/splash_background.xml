@@ -1,0 +1,4 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Agrega aquí tu fondo, ya sea un color o una imagen -->
+    <item android:drawable="@color/Gris_Oscuro" />
+</layer-list>
